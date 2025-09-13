@@ -62,9 +62,6 @@ An **Investing Co-Pilot** that pairs **quantitative fundamentals** with **qualit
 - 📚 **Peter Lynch Knowledge Base:** books (*One Up on Wall Street*, *Beating the Street*, *Learn to Earn*), speech/interview transcripts, and curated educational articles  
   → normalized into Q&A pairs for **RAG** retrieval
 
-> _Tip:_ Add an architecture diagram image at `docs/architecture.png` and reference it here:
->
-> ![Architecture](docs/architecture.png)
 
 ---
 
@@ -73,33 +70,35 @@ Place screenshots in `docs/screens/` and reference as below.
 
 1. **Chatbot (mentorship Q&A)**  
 
-    <img width="1437" height="705" alt="Screenshot 2025-09-12 at 12 48 08 AM" src="https://github.com/user-attachments/assets/b42f1d72-4410-444f-8f4a-bb80c33a2227" />
+    <img width="1300" height="600" alt="Screenshot 2025-09-12 at 12 48 08 AM" src="https://github.com/user-attachments/assets/b42f1d72-4410-444f-8f4a-bb80c33a2227" />
 
-   <img width="1425" height="763" alt="Screenshot 2025-09-12 at 1 01 45 AM" src="https://github.com/user-attachments/assets/f317f87c-4855-4b21-99c2-63a22b816fc5" />
+   <img width="1300" height="600" alt="Screenshot 2025-09-12 at 1 01 45 AM" src="https://github.com/user-attachments/assets/f317f87c-4855-4b21-99c2-63a22b816fc5" />
 
 
 
 1. **Financial Dashboard (metrics + tooltips)**  
-   <img width="1414" height="725" alt="Screenshot 2025-09-12 at 1 04 44 AM" src="https://github.com/user-attachments/assets/d680aa02-5c4a-4e1a-ad25-c556ef051de1" />
+   <img width="1300" height="600" alt="Screenshot 2025-09-12 at 1 04 44 AM" src="https://github.com/user-attachments/assets/d680aa02-5c4a-4e1a-ad25-c556ef051de1" />
 
-<img width="1406" height="764" alt="Screenshot 2025-09-12 at 1 07 12 AM" src="https://github.com/user-attachments/assets/f29a8053-3ebc-4cef-924d-ff2586f505a1" />
+<img width="1300" height="600" alt="Screenshot 2025-09-12 at 1 07 12 AM" src="https://github.com/user-attachments/assets/f29a8053-3ebc-4cef-924d-ff2586f505a1" />
 
 
 2. **Portfolio Summary (averages)**  
-<img width="1412" height="763" alt="Screenshot 2025-09-12 at 1 07 55 AM" src="https://github.com/user-attachments/assets/6aef673d-d609-4c16-9abf-827401e35401" />
+<img width="1300" height="600" alt="Screenshot 2025-09-12 at 1 07 55 AM" src="https://github.com/user-attachments/assets/6aef673d-d609-4c16-9abf-827401e35401" />
 
 3. **Value–Quality Clustering**  
-   ![Clustering](docs/screens/clusters.png)
+   <img width="1300" height="600" alt="Screenshot 2025-09-12 at 1 08 21 AM" src="https://github.com/user-attachments/assets/b8e5fadf-b514-4c74-8b73-388ed2ae6312" />
+
 
 4. **Radar Comparison (2–3 tickers)**  
-   ![Radar](docs/screens/radar.png)
+   <img width="1300" height="600" alt="Screenshot 2025-09-12 at 1 12 48 AM" src="https://github.com/user-attachments/assets/b43e050a-1e45-4af2-8128-d63ed62598eb" />
+
 
 5. **Recommendations (Long / Hold / Short + why)**  
-   <img width="1422" height="761" alt="Screenshot 2025-09-12 at 1 13 14 AM" src="https://github.com/user-attachments/assets/dc090770-29f2-4104-93aa-fdeb21e023cc" />
+   <img width="1300" height="600" alt="Screenshot 2025-09-12 at 1 13 14 AM" src="https://github.com/user-attachments/assets/dc090770-29f2-4104-93aa-fdeb21e023cc" />
 
 
 6. **Beginner Tips (color-coded)**  
-   <img width="1377" height="656" alt="Screenshot 2025-09-12 at 1 13 46 AM" src="https://github.com/user-attachments/assets/829b9d1c-bea7-4f2e-bc48-d4628f8e7222" />
+   <img width="1300" height="600" alt="Screenshot 2025-09-12 at 1 13 46 AM" src="https://github.com/user-attachments/assets/829b9d1c-bea7-4f2e-bc48-d4628f8e7222" />
 
 
 ---
