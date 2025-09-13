@@ -1,0 +1,39 @@
+# Backend Requirements for Peter Lynch Investment Platform
+
+# Core API Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# Environment and Configuration
+python-dotenv==1.0.0
+
+# HTTP and Data Handling
+requests==2.31.0
+pydantic==2.5.0
+
+# Vector Database and Embeddings
+pinecone-client==2.2.4
+sentence-transformers==2.2.2
+torch==2.1.1
+numpy==1.24.3
+
+# AI and ML - Gemini
+google-generativeai==0.3.2
+
+# Data Science for CSV Processing
+pandas==2.1.3
+
+# Stock Data APIs
+yahooquery>=2.4.0
+yahoo_fin>=0.8.9
+
+# Machine Learning & Clustering
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+
+# Async utilities
+aiofiles==23.2.1
+
+# Logging
+colorama>=0.4.6
