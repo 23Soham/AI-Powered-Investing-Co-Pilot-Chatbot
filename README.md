@@ -1,6 +1,4 @@
-# AI-Powered-Investing-Co-Pilot-Chatbot
-
-# 📘 AI-Powered Investing Co-Pilot
+# 📘 AI-Powered-Investing-Co-Pilot-Chatbot
 
 > ⚠️ **Disclaimer**  
 > This is a **study project** and an **AI co-pilot**. It is **not financial advice**.  
@@ -74,25 +72,35 @@ An **Investing Co-Pilot** that pairs **quantitative fundamentals** with **qualit
 Place screenshots in `docs/screens/` and reference as below.
 
 1. **Chatbot (mentorship Q&A)**  
-   ![Chatbot](docs/screens/chat.png)
 
-2. **Financial Dashboard (metrics + tooltips)**  
-   ![Dashboard](docs/screens/dashboard.png)
+    <img width="1437" height="705" alt="Screenshot 2025-09-12 at 12 48 08 AM" src="https://github.com/user-attachments/assets/b42f1d72-4410-444f-8f4a-bb80c33a2227" />
 
-3. **Portfolio Summary (averages)**  
-   ![Summary](docs/screens/summary.png)
+   <img width="1425" height="763" alt="Screenshot 2025-09-12 at 1 01 45 AM" src="https://github.com/user-attachments/assets/f317f87c-4855-4b21-99c2-63a22b816fc5" />
 
-4. **Value–Quality Clustering**  
+
+
+1. **Financial Dashboard (metrics + tooltips)**  
+   <img width="1414" height="725" alt="Screenshot 2025-09-12 at 1 04 44 AM" src="https://github.com/user-attachments/assets/d680aa02-5c4a-4e1a-ad25-c556ef051de1" />
+
+<img width="1406" height="764" alt="Screenshot 2025-09-12 at 1 07 12 AM" src="https://github.com/user-attachments/assets/f29a8053-3ebc-4cef-924d-ff2586f505a1" />
+
+
+2. **Portfolio Summary (averages)**  
+<img width="1412" height="763" alt="Screenshot 2025-09-12 at 1 07 55 AM" src="https://github.com/user-attachments/assets/6aef673d-d609-4c16-9abf-827401e35401" />
+
+3. **Value–Quality Clustering**  
    ![Clustering](docs/screens/clusters.png)
 
-5. **Radar Comparison (2–3 tickers)**  
+4. **Radar Comparison (2–3 tickers)**  
    ![Radar](docs/screens/radar.png)
 
-6. **Recommendations (Long / Hold / Short + why)**  
-   ![Recs](docs/screens/recs.png)
+5. **Recommendations (Long / Hold / Short + why)**  
+   <img width="1422" height="761" alt="Screenshot 2025-09-12 at 1 13 14 AM" src="https://github.com/user-attachments/assets/dc090770-29f2-4104-93aa-fdeb21e023cc" />
 
-7. **Beginner Tips (color-coded)**  
-   ![Tips](docs/screens/tips.png)
+
+6. **Beginner Tips (color-coded)**  
+   <img width="1377" height="656" alt="Screenshot 2025-09-12 at 1 13 46 AM" src="https://github.com/user-attachments/assets/829b9d1c-bea7-4f2e-bc48-d4628f8e7222" />
+
 
 ---
 
